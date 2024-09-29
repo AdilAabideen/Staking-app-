@@ -1,11 +1,6 @@
-# NFT Staking App
+# NFT Staking App For Energy Sharing
 
-
-- Create a copy of this repo by running the below command:
-
-```bash
-npx thirdweb create --example nft-staking-app
-```
+Allows Energy Sharing across the Solana Network
 
 - Deploy the `StakingContract.sol` smart contract by running the below command from the root of the project directory:
 
